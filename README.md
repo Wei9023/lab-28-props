@@ -31,4 +31,4 @@
 
 
 #### UML
-![Data flow](./state-uml.JPG)
+!UML](./state-uml.jpg)
