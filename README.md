@@ -11,7 +11,7 @@
 * [internal part1](https://codesandbox.io/s/j4w09oqr35)
 * [internal part2](https://codesandbox.io/s/72rooy5k76)
 * [external part1](https://codesandbox.io/s/3r39w25jxq)
-* [external part2](https://codesandbox.io/s/xlwx99m2jq)
+* [external part2](https://codesandbox.io/s/jyl570nz5)
 
 #### Documentation
 
